@@ -4,7 +4,7 @@ The objective to this repository is centralized de materiales, videos and homewo
 ## Resources
 - [Book Student](https://drive.google.com/file/d/14Xqx_yBRUoIqMsk4WLxnc0yKH3BUrWPp/view?usp=sharing)
 - [Audios](https://drive.google.com/drive/folders/1h6Nr3fVeya6-ghiyIuYaqRmuegwDypsq?usp=sharing)
-
+- [Journal](https://docs.google.com/document/d/10t14CYqER5VjaH09-wySLuD3ZfNazrBz7rT5QvKiT7I/edit)
 
 # Unit 1 Companies
 
